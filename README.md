@@ -1,2 +1,3 @@
 # PointManager
-node server + mysql
+
+node server + mysql + github
